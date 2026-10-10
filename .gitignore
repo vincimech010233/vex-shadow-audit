@@ -1,0 +1,26 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+# Local reports and coverage
+/report.json
+/report.md
+/reports/
+/coverage/
+.coverage
+*.cover
+# Local artifacts and editor files
+/dist/
+/build/
+*.zip
+*.tar.gz
+*.egg-info/
+.vscode/
+.idea/
+*.swp
+# Local configuration and credential files
+.env
+.env.*
+*.pem
+*.key

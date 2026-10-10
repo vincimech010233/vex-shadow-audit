@@ -1,0 +1,9 @@
+{
+  "updated_at": "2026-10-09T12:00:00Z",
+  "packages": [
+    {
+      "id": "pkg:deb/debian/perl-base",
+      "location": "pkg/deb/debian/perl-base/vex.json"
+    }
+  ]
+}

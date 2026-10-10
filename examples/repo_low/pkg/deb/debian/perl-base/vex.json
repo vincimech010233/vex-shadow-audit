@@ -1,0 +1,34 @@
+{
+  "@context": "https://openvex.dev/ns/v0.2.0",
+  "@id": "https://example.invalid/vex/low",
+  "author": "Synthetic Fixture",
+  "role": "Document Creator",
+  "timestamp": "2026-10-09T12:00:00Z",
+  "version": 1,
+  "statements": [
+    {
+      "vulnerability": {
+        "name": "CVE-2099-10001"
+      },
+      "products": [
+        {
+          "@id": "pkg:deb/debian/perl-base@5.40.1-6+dhi6?arch=amd64&distro=debian-13.6"
+        }
+      ],
+      "status": "not_affected",
+      "justification": "inline_mitigations_already_exist"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2099-10002"
+      },
+      "products": [
+        {
+          "@id": "pkg:deb/debian/perl-base@5.40.1-6+dhi6?arch=amd64&distro=debian-13.6"
+        }
+      ],
+      "status": "not_affected",
+      "justification": "inline_mitigations_already_exist"
+    }
+  ]
+}

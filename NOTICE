@@ -1,0 +1,18 @@
+VEX Shadow Audit
+
+The original 1.0.0 package contained this copyright notice:
+"Copyright (c) 2026. All rights reserved by the author of this software."
+
+That notice is retained here for provenance. The copyright holder has
+confirmed ownership and authorized this repository distribution under the
+MIT License. The previous evaluation-only terms are not the license of this
+repository. See LICENSE for the applicable grant and conditions.
+
+This is an independent diagnostic project. It is not affiliated with or
+endorsed by Aqua Security, Trivy, or the OpenVEX project. Referenced names
+and specifications belong to their respective owners.
+
+External implementation sources were examined as technical references;
+they are linked in docs/references.md and are not bundled in this repository.
+No upstream patches, third-party implementation files, or private audit
+histories are included.

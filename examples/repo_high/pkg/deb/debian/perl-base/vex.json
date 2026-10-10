@@ -1,0 +1,21 @@
+{
+  "@context": "https://openvex.dev/ns/v0.2.0",
+  "@id": "https://example.invalid/vex/high",
+  "author": "Synthetic Fixture",
+  "role": "Document Creator",
+  "timestamp": "2026-10-09T12:00:00Z",
+  "version": 1,
+  "statements": [
+    {
+      "vulnerability": {
+        "name": "CVE-2099-10002"
+      },
+      "products": [
+        {
+          "@id": "pkg:deb/debian/perl-base"
+        }
+      ],
+      "status": "under_investigation"
+    }
+  ]
+}

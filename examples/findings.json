@@ -1,0 +1,14 @@
+[
+  {
+    "purl": "pkg:deb/debian/perl-base@5.40.1-6+dhi6?arch=amd64&distro=debian-13.6",
+    "vulnerability": "CVE-2099-10001"
+  },
+  {
+    "purl": "pkg:deb/debian/perl-base@5.40.1-6+dhi6?arch=amd64&distro=debian-13.6",
+    "vulnerability": "CVE-2099-10002"
+  },
+  {
+    "purl": "pkg:deb/debian/perl-base@5.40.1-6+dhi6?arch=amd64&distro=debian-13.6",
+    "vulnerability": "CVE-2099-10003"
+  }
+]
